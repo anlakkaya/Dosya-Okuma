@@ -1,0 +1,10 @@
+E:\Dosya Okuma\Dosya Okuma\bin\Debug\Dosya Okuma.exe.config
+E:\Dosya Okuma\Dosya Okuma\bin\Debug\Dosya Okuma.exe
+E:\Dosya Okuma\Dosya Okuma\bin\Debug\Dosya Okuma.pdb
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya Okuma.csprojAssemblyReference.cache
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya_Okuma.Form1.resources
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya_Okuma.Properties.Resources.resources
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya Okuma.csproj.GenerateResource.cache
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya Okuma.csproj.CoreCompileInputs.cache
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya Okuma.exe
+E:\Dosya Okuma\Dosya Okuma\obj\Debug\Dosya Okuma.pdb
